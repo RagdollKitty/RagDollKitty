@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a cute ragdoll kitty in the GitHub. 
+
 <!--
 **RagdollKitty/RagDollKitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
